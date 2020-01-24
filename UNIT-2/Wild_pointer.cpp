@@ -6,7 +6,7 @@ int main()
 	int a=10;
     cout<<ptr<<endl;//Gives garbage address value
 	cout<<*ptr<<endl;//Gives garbage value stored in the garbage address
-	ptr=&a;//Now ptr is not a wild pointer
+	ptr=&a;
 
 
 	cout<<*ptr;
