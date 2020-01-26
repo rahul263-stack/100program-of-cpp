@@ -1,3 +1,6 @@
+//constructor are the function with same name as of class
+
+
 #include<iostream>
 using namespace std;
 class abc_overloading
